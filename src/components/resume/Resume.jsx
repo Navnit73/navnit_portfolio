@@ -35,21 +35,17 @@ const Resume = () => {
               {/* design */}
               <div className=" flex flex-col gap-1 sm:gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
                 <h1 className="text-[1.4rem] font-semibold sm:text-xl">
-                  Software Developer
+                  Web Developer
                 </h1>
                 <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
-                  Company Name
+                 Topper world
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
                   June 2023 - Present
                 </span>
                 <p className=" text-[.9rem] text-justify break-words text-gray-500">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Excepturi nihil aut quae obcaecati alias placeat totam aperiam
-                  pariatur quam? Accusantium minima aperiam error obcaecati
-                  autem doloribus deserunt qui, laborum incidunt amet, numquam
-                  eos cum tempora. Debitis, esse quae corporis deserunt officia
-                  quos in a, quaerat vero odio vitae.
+                
+During my internship at TopperWorld as a front-end web developer, I gained invaluable hands-on experience in crafting user-centric interfaces. Collaborating with the design team, I translated concepts into responsive layouts using HTML, CSS, and JavaScript. Through optimizing website performance and implementing interactive features, I honed my coding skills and adapted to dynamic project requirements. This immersive journey not only enhanced my technical proficiency but also cultivated a deeper appreciation for user experience design, setting a strong foundation for my future in web development.
                 </p>
               </div>
             </div>
@@ -76,18 +72,13 @@ const Resume = () => {
                   B.Tech, Computer Science
                 </h1>
                 <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
-                  College Name
+                  School of management science
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
-                  Year 2023 - Year 2027
+                  Year 2020 - Year 2024
                 </span>
                 <p className=" text-[.9rem] text-justify text-gray-500">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                  Excepturi nihil aut quae obcaecati alias placeat totam aperiam
-                  pariatur quam? Accusantium minima aperiam error obcaecati
-                  autem doloribus deserunt qui, laborum incidunt amet, numquam
-                  eos cum tempora. Debitis, esse quae corporis deserunt officia
-                  quos in a, quaerat vero odio vitae.
+                Nurtured within the School of Management Science, my B.Tech CSE odyssey blends technology and business acumen. Innovative curriculum, guided by adept faculty, seamlessly fuses coding finesse with strategic insight. Interdisciplinary ventures, hackathons, and global connections shape a holistic skill set, priming me for tech-driven business realms. This synergy readies me to innovate, collaborate, and lead in our ever-evolving digital landscape.
                 </p>
               </div>
             </div>

@@ -2,8 +2,8 @@ import React from "react";
 
 const Resume = () => {
   const downloadResume = () => {
-    // Path to your resume PDF file
-    const resumeUrl = "/path/to/your/resume.pdf"; 
+    // Google Drive link to your resume PDF file
+    const resumeUrl = "https://drive.google.com/uc?export=download&id=1zs9cIeBDhUcvXnrfctzJkzpcSuGSl_EH"; 
     const link = document.createElement("a");
     link.href = resumeUrl;
     link.download = "Resume.pdf";

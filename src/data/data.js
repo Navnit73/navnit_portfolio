@@ -11,18 +11,26 @@ export const data = [
   },
   {
     id: 2,
-    img: 'https://i.postimg.cc/Bv75CLyN/4167022.jpg',
-    title: "Tarvel Agency",
-    link: "",
-    git: "",
+    img: 'https://postimg.cc/SXcXfDLD',
+    title: "Tech Company Leanding Page",
+    link: "https://navnit73.github.io/Go-green/",
+    git: "https://github.com/Navnit73/Go-green",
   },
   {
     id: 3,
-    img: 'https://i.postimg.cc/wBjcJcW7/5890625.jpg',
-    title: "Music Player",
+    img: 'https://postimg.cc/PvYFXG11',
+    title: "Gym Website",
     desc: "",
-    link: "",
-    git: "",
+    link: "https://navnit73.github.io/gym/",
+    git: "https://navnit73.github.io/gym/",
+  },
+    {
+    id: 4,
+    img: 'https://postimg.cc/WdCWkbS0',
+    title: "Restaurant Website",
+    desc: "",
+    link: "https://restaurant-tcj.netlify.app/",
+    git: "https://restaurant-tcj.netlify.app/",
   }
   
 ];

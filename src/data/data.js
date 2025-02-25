@@ -11,14 +11,14 @@ export const data = [
   },
   {
     id: 2,
-    img: 'https://postimg.cc/SXcXfDLD',
+    img: 'https://res.cloudinary.com/ddxu2wqfm/image/upload/v1740490698/rzgqux3l8fj2qrozreuz.png',
     title: "Tech Company Leanding Page",
     link: "https://navnit73.github.io/Go-green/",
     git: "https://github.com/Navnit73/Go-green",
   },
   {
     id: 3,
-    img: 'https://postimg.cc/PvYFXG11',
+    img: 'https://res.cloudinary.com/ddxu2wqfm/image/upload/v1740490759/f23kwo75wenukbkipyhh.png',
     title: "Gym Website",
     desc: "",
     link: "https://navnit73.github.io/gym/",
@@ -26,7 +26,7 @@ export const data = [
   },
     {
     id: 4,
-    img: 'https://postimg.cc/WdCWkbS0',
+    img: 'https://res.cloudinary.com/ddxu2wqfm/image/upload/v1740490926/mh0stt1283vkniq2oltv.png',
     title: "Restaurant Website",
     desc: "",
     link: "https://restaurant-tcj.netlify.app/",

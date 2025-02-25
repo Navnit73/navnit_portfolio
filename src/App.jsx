@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
 import { Suspense } from "react";
-import { BarLoader } from "react-spinners";
 import Home from "./pages/Home";
 
 const App = () => {
@@ -14,16 +13,10 @@ const App = () => {
   }, []);
 
   return (
-    <Suspense
-      fallback={
-        <div className="h-screen w-full flex items-center justify-center">
-          <BarLoader color="#f6c400" height={4} />
-        </div>
-      }
-    >
+    <Suspense fallback={<div className="h-screen w-full flex items-center justify-center">Loading...</div>}>
       {loading ? (
         <div className="h-screen w-full flex items-center justify-center">
-          <BarLoader color="#f6c400" height={4} />
+          <span>Loading...</span>
         </div>
       ) : (
         <Home />

@@ -4,13 +4,15 @@ import SkillBox from "../../chip/SkillBox";
 
 import { IoLogoHtml5, IoLogoCss3 } from "react-icons/io";
 
-
 import {
   SiJavascript,
   SiTailwindcss,
   SiMongodb,
   SiExpress,
   SiPython,
+  SiVuejs,
+  SiVuetify,
+  SiRedux
 } from "react-icons/si";
 import { GrCode } from "react-icons/gr";
 import { SiNextdotjs } from "react-icons/si";
@@ -56,6 +58,8 @@ const Skills = ({ darkMode }) => {
                   name={"Tailwind CSS"}
                   value={80}
                 />
+                <ProgressBar logo={<SiVuejs />} name={"Vue.js"} value={85} />
+                <ProgressBar logo={<SiVuetify />} name={"Vuetify"} value={75} />
               </div>
             </div>
           </div>
@@ -73,6 +77,12 @@ const Skills = ({ darkMode }) => {
                 black={"white"}
                 white={"black"}
                 skill={"Python"}
+              />
+              <SkillBox
+                logo={<SiVuejs />}
+                black={"white"}
+                white={"black"}
+                skill={"Vuex"}
               />
             </div>
             <div className="last2 flex flex-col gap-10">
